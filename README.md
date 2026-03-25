@@ -1,2 +1,1 @@
-# qa_guru_41_lesson2
-2. Git. Github. Погружаемся.
+# qa_guru_41_lesson3
