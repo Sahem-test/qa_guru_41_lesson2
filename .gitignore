@@ -25,9 +25,4 @@ bin/
 
 
 
-### Mac OS ###
-.DS_Store
-/.gradle
-/.idea
-*.log
-!build.gradle
+
